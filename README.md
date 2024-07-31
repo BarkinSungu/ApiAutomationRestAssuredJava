@@ -6,7 +6,7 @@ How to you can run the project?
 - Open cases and run with testNG
 
 What is the project?
-  Project run in "https://restful-booker.herokuapp.com"
-  Create booking for POST
-  Delete booking for DELETE
-  Checking for deletion for GET
+- Project run in "https://restful-booker.herokuapp.com"
+- Create booking for POST
+- Delete booking for DELETE
+- Checking for deletion for GET
