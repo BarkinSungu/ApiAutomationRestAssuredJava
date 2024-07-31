@@ -1,0 +1,14 @@
+{
+  "bookerURI": "https://restful-booker.herokuapp.com",
+  "firstName": "Jim",
+  "lastName": "Brown",
+  "totalPrice": 111,
+  "depositePaid": true,
+  "checkinDate": "2018-01-01",
+  "checkoutDate": "2019-01-01",
+  "additionalNeeds": "Breakfast",
+  "authUserName": "admin",
+  "authPassword": "password123"
+
+
+}
